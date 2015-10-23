@@ -13,6 +13,7 @@
 	- [tab-capsule](ui_components/tab_capsule.md)
 	- [input-box](ui_components/input_box.md)
 	- [modal](ui_components/modal.md)
+	- [hunter](ui_components/hunter.md)
 	- [table-grid](ui_components/table_grid.md)
 	- [pagination](ui_components/pagination.md)
 	- [image-uploader](ui_components/image_uploader.md)
