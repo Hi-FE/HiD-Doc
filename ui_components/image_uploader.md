@@ -13,8 +13,8 @@ image-uploader是一种图片上传的组件，它的内容由一个当前图片
 
   - **name** `string` 上传组件所需ID，必须且唯一。
   - **title** `string` 所上传图片说明，必须。
-  - **min_width** `number` 图片要求最小宽度，必须。
-  - **min_height** `number` 图片要求最小高度，必须。
+  - **min_width** `string` 图片要求最小宽度，如不限制可赋值"不限制"等说明语句，必须。
+  - **min_height** `string` 图片要求最小高度，如不限制可赋值"不限制"等说明语句，必须。
   - **image_url** `string` 图片URL，必须。
   - **change-image-url** `function` 更新当前展示图片，必须。
 
